@@ -6,3 +6,8 @@ body {
 #title-section {font-size: 200%;}
 
 .info-section {font-family: anton;}
+
+.myClass {
+      background-color: gray;
+      color: blue
+    }
