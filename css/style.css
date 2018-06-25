@@ -1,8 +1,8 @@
-
+@import url('https://fonts.googleapis.com/css?family=Anton');
 body {
       background-color: lightblue;
     }
     
 #title-section {font-size: 200%;}
 
-.info-section {font-family: Anton;}
+.info-section {font-family: anton;}
