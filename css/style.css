@@ -1,1 +1,8 @@
-/* add CSS class and element and selectors here */
+
+body {
+      background-color: lightblue;
+    }
+    
+#title-section {font-size: 200%;}
+
+.info-section {font-family: helvetica;}
